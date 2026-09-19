@@ -14,6 +14,30 @@ This repository is designed for students, hobbyists, makers, and anyone getting 
 - Build small IoT projects
 - Troubleshoot common ESP32 setup problems
 
+## ESP32 vs Arduino Uno for Beginners
+
+Both ESP32 and Arduino Uno are useful development boards, but they suit different types of projects.
+
+| Feature | ESP32 | Arduino Uno |
+|---|---|---|
+| Wi-Fi | Built in | Not built in |
+| Bluetooth | Built in on common ESP32 variants | Not built in |
+| Processing capability | Higher | Simpler |
+| Typical beginner use | IoT, wireless sensors, web projects | Basic electronics, sensors, robotics |
+| Learning curve | More features to learn | Simpler starting point |
+
+For a first project, choose the board based on what you want to build. If your project needs Wi-Fi or Bluetooth, ESP32 is a practical option. For basic sensor, LED, and robotics exercises, Arduino Uno can be a straightforward choice.
+
+For a more detailed beginner-friendly comparison, see:
+
+**ESP32 vs Arduino: Which Board Is Best for Beginners?**  
+https://vayuyaan.wordpress.com/2026/09/20/esp32-vs-arduino-which-board-is-best-for-beginners/
+
+If you are completely new to ESP32, the Vayuyaan beginner guide covers the board's basics, features, setup, and common development uses:
+
+**Getting Started with ESP32 Development Board**  
+https://vayuyaan.com/blog/getting-started-with-esp32-development-board/
+
 ## ESP32 Setup
 
 ### Install Arduino IDE
